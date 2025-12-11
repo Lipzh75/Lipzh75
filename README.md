@@ -61,8 +61,5 @@
 <img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,ps,ai" />
 
 <br />
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Lipzh75&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Lipzh75's Stats" />
 
 </div>
